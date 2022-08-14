@@ -1,0 +1,12 @@
+・apple
+・lemon
+・orange
+・banana
+・grape
+sample1@test.co.jp, sambaacdsavsa@test.co.jp, sdavsad@test,co,jp
+・APPLE
+・LEMON
+・ORANGE
+・BANANA
+・GRAPE
+SAMPLE1@TEST.CO.JP, SAMBAACDSAVSA@TEST.CO.JP, SDAVSAD@TEST,CO,JP
